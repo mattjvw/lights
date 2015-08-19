@@ -1,0 +1,202 @@
+Wed, 19 Aug 2015 01:25:41 GMT hci-ble hciBle = /root/lights/node_modules/noble/lib/linux/../../build/Release/hci-ble
+Wed, 19 Aug 2015 01:25:43 GMT hci-ble buffer = "adapterState poweredOn\n"
+Wed, 19 Aug 2015 01:25:43 GMT hci-ble line = adapterState poweredOn
+Wed, 19 Aug 2015 01:25:43 GMT hci-ble adapterState = poweredOn
+Wed, 19 Aug 2015 01:25:43 GMT noble stateChange poweredOn
+Wed, 19 Aug 2015 01:25:43 GMT noble scanStart
+Wed, 19 Aug 2015 01:25:43 GMT hci-ble buffer = "event 90:59:AF:07:2B:34,public,020106050210ff20ff,-85\n"
+Wed, 19 Aug 2015 01:25:43 GMT hci-ble line = event 90:59:AF:07:2B:34,public,020106050210ff20ff,-85
+Wed, 19 Aug 2015 01:25:43 GMT hci-ble address = 90:59:AF:07:2B:34
+Wed, 19 Aug 2015 01:25:43 GMT hci-ble addressType = public
+Wed, 19 Aug 2015 01:25:43 GMT hci-ble eir = 020106050210ff20ff
+Wed, 19 Aug 2015 01:25:43 GMT hci-ble rssi = -85
+Wed, 19 Aug 2015 01:25:43 GMT hci-ble advertisement = {"serviceData":[],"serviceUuids":["ff10","ff20"]}
+Wed, 19 Aug 2015 01:25:43 GMT hci-ble buffer = "event 90:59:AF:07:2B:34,public,10094c5232000000000000000000000000051250002003020a0404ff314646,-84\n"
+Wed, 19 Aug 2015 01:25:43 GMT hci-ble line = event 90:59:AF:07:2B:34,public,10094c5232000000000000000000000000051250002003020a0404ff314646,-84
+Wed, 19 Aug 2015 01:25:43 GMT hci-ble address = 90:59:AF:07:2B:34
+Wed, 19 Aug 2015 01:25:43 GMT hci-ble addressType = public
+Wed, 19 Aug 2015 01:25:43 GMT hci-ble eir = 10094c5232000000000000000000000000051250002003020a0404ff314646
+Wed, 19 Aug 2015 01:25:43 GMT hci-ble rssi = -84
+Wed, 19 Aug 2015 01:25:43 GMT hci-ble advertisement = {"localName":"LR2\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000","txPowerLevel":4,"manufacturerData":[49,70,70],"serviceData":[],"serviceUuids":["ff10","ff20"]}
+Wed, 19 Aug 2015 01:25:43 GMT hci-ble buffer = "event D4:81:CA:30:09:55,public,02010608084b545f6d696e6900000000,-97\n"
+Wed, 19 Aug 2015 01:25:43 GMT hci-ble line = event D4:81:CA:30:09:55,public,02010608084b545f6d696e6900000000,-97
+Wed, 19 Aug 2015 01:25:43 GMT hci-ble address = D4:81:CA:30:09:55
+Wed, 19 Aug 2015 01:25:43 GMT hci-ble addressType = public
+Wed, 19 Aug 2015 01:25:43 GMT hci-ble eir = 02010608084b545f6d696e6900000000
+Wed, 19 Aug 2015 01:25:43 GMT hci-ble rssi = -97
+Wed, 19 Aug 2015 01:25:43 GMT hci-ble invalid EIR data, length = 0
+Wed, 19 Aug 2015 01:25:43 GMT hci-ble advertisement = {"localName":"KT_mini","serviceData":[],"serviceUuids":[]}
+Wed, 19 Aug 2015 01:25:43 GMT hci-ble buffer = "event 90:59:AF:24:03:51,public,020106050210ff20ff,-80\n"
+Wed, 19 Aug 2015 01:25:43 GMT hci-ble line = event 90:59:AF:24:03:51,public,020106050210ff20ff,-80
+Wed, 19 Aug 2015 01:25:43 GMT hci-ble address = 90:59:AF:24:03:51
+Wed, 19 Aug 2015 01:25:43 GMT hci-ble addressType = public
+Wed, 19 Aug 2015 01:25:43 GMT hci-ble eir = 020106050210ff20ff
+Wed, 19 Aug 2015 01:25:43 GMT hci-ble rssi = -80
+Wed, 19 Aug 2015 01:25:43 GMT hci-ble advertisement = {"serviceData":[],"serviceUuids":["ff10","ff20"]}
+Wed, 19 Aug 2015 01:25:43 GMT hci-ble buffer = "event 90:59:AF:07:2D:24,public,020106050210ff20ff,-89\n"
+Wed, 19 Aug 2015 01:25:43 GMT hci-ble line = event 90:59:AF:07:2D:24,public,020106050210ff20ff,-89
+Wed, 19 Aug 2015 01:25:43 GMT hci-ble address = 90:59:AF:07:2D:24
+Wed, 19 Aug 2015 01:25:43 GMT hci-ble addressType = public
+Wed, 19 Aug 2015 01:25:43 GMT hci-ble eir = 020106050210ff20ff
+Wed, 19 Aug 2015 01:25:43 GMT hci-ble rssi = -89
+Wed, 19 Aug 2015 01:25:43 GMT hci-ble advertisement = {"serviceData":[],"serviceUuids":["ff10","ff20"]}
+Wed, 19 Aug 2015 01:25:43 GMT hci-ble buffer = "event 90:59:AF:07:2D:24,public,10094c5233000000000000000000000000051250002003020a0404ff314646,-89\n"
+Wed, 19 Aug 2015 01:25:43 GMT hci-ble line = event 90:59:AF:07:2D:24,public,10094c5233000000000000000000000000051250002003020a0404ff314646,-89
+Wed, 19 Aug 2015 01:25:43 GMT hci-ble address = 90:59:AF:07:2D:24
+Wed, 19 Aug 2015 01:25:43 GMT hci-ble addressType = public
+Wed, 19 Aug 2015 01:25:43 GMT hci-ble eir = 10094c5233000000000000000000000000051250002003020a0404ff314646
+Wed, 19 Aug 2015 01:25:43 GMT hci-ble rssi = -89
+Wed, 19 Aug 2015 01:25:43 GMT hci-ble advertisement = {"localName":"LR3\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000","txPowerLevel":4,"manufacturerData":[49,70,70],"serviceData":[],"serviceUuids":["ff10","ff20"]}
+Wed, 19 Aug 2015 01:25:43 GMT hci-ble buffer = "event 90:59:AF:24:03:51,public,10094c5231000000000000000000000000051250002003020a0404ff314646,-74\n"
+Wed, 19 Aug 2015 01:25:43 GMT hci-ble line = event 90:59:AF:24:03:51,public,10094c5231000000000000000000000000051250002003020a0404ff314646,-74
+Wed, 19 Aug 2015 01:25:43 GMT hci-ble address = 90:59:AF:24:03:51
+Wed, 19 Aug 2015 01:25:43 GMT hci-ble addressType = public
+Wed, 19 Aug 2015 01:25:43 GMT hci-ble eir = 10094c5231000000000000000000000000051250002003020a0404ff314646
+Wed, 19 Aug 2015 01:25:43 GMT hci-ble rssi = -74
+Wed, 19 Aug 2015 01:25:43 GMT hci-ble advertisement = {"localName":"LR1\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000","txPowerLevel":4,"manufacturerData":[49,70,70],"serviceData":[],"serviceUuids":["ff10","ff20"]}
+Wed, 19 Aug 2015 01:25:45 GMT noble scanStop
+Wed, 19 Aug 2015 01:25:45 GMT l2cap-ble 90:59:af:07:2b:34: l2capBle = /root/lights/node_modules/noble/lib/linux/../../build/Release/l2cap-ble
+Wed, 19 Aug 2015 01:25:45 GMT l2cap-ble 90:59:af:07:2b:34: buffer = "info using 00:02:72:CC:8B:54@hci0\n"
+Wed, 19 Aug 2015 01:25:45 GMT l2cap-ble 90:59:af:07:2b:34: line = info using 00:02:72:CC:8B:54@hci0
+Wed, 19 Aug 2015 01:25:45 GMT l2cap-ble 90:59:af:07:2b:34: buffer = "connect success"
+Wed, 19 Aug 2015 01:25:45 GMT l2cap-ble 90:59:af:07:2b:34: buffer = "connect success\n"
+Wed, 19 Aug 2015 01:25:45 GMT l2cap-ble 90:59:af:07:2b:34: line = connect success
+Wed, 19 Aug 2015 01:25:45 GMT l2cap-ble 90:59:af:07:2b:34: write: 020001
+Wed, 19 Aug 2015 01:25:45 GMT l2cap-ble 90:59:af:07:2b:34: buffer = "write = success\n"
+Wed, 19 Aug 2015 01:25:45 GMT l2cap-ble 90:59:af:07:2b:34: line = write = success
+Wed, 19 Aug 2015 01:25:46 GMT l2cap-ble 90:59:af:07:2b:34: buffer = "data 031700\n"
+Wed, 19 Aug 2015 01:25:46 GMT l2cap-ble 90:59:af:07:2b:34: line = data 031700
+Wed, 19 Aug 2015 01:25:46 GMT l2cap-ble 90:59:af:07:2b:34: new MTU is 23
+Wed, 19 Aug 2015 01:25:46 GMT l2cap-ble 90:59:af:07:2b:34: write: 100100ffff0028
+Wed, 19 Aug 2015 01:25:46 GMT l2cap-ble 90:59:af:07:2b:34: buffer = "write = success\n"
+Wed, 19 Aug 2015 01:25:46 GMT l2cap-ble 90:59:af:07:2b:34: line = write = success
+Wed, 19 Aug 2015 01:25:46 GMT l2cap-ble 90:59:af:07:2b:34: buffer = "data 110601000b0000180c000f000118100022000a18\n"
+Wed, 19 Aug 2015 01:25:46 GMT l2cap-ble 90:59:af:07:2b:34: line = data 110601000b0000180c000f000118100022000a18
+Wed, 19 Aug 2015 01:25:46 GMT l2cap-ble 90:59:af:07:2b:34: write: 102300ffff0028
+Wed, 19 Aug 2015 01:25:46 GMT l2cap-ble 90:59:af:07:2b:34: buffer = "write = success\n"
+Wed, 19 Aug 2015 01:25:46 GMT l2cap-ble 90:59:af:07:2b:34: line = write = success
+Wed, 19 Aug 2015 01:25:46 GMT l2cap-ble 90:59:af:07:2b:34: buffer = "data 111423002b0000000000000000b000405104c0ff00f0\n"
+Wed, 19 Aug 2015 01:25:46 GMT l2cap-ble 90:59:af:07:2b:34: line = data 111423002b0000000000000000b000405104c0ff00f0
+Wed, 19 Aug 2015 01:25:46 GMT l2cap-ble 90:59:af:07:2b:34: write: 102c00ffff0028
+Wed, 19 Aug 2015 01:25:46 GMT l2cap-ble 90:59:af:07:2b:34: buffer = "write = success\n"
+Wed, 19 Aug 2015 01:25:46 GMT l2cap-ble 90:59:af:07:2b:34: line = write = success
+Wed, 19 Aug 2015 01:25:46 GMT l2cap-ble 90:59:af:07:2b:34: buffer = "data 11062c005c0010ff5d006c0020ff6d00ffff40ff\n"
+Wed, 19 Aug 2015 01:25:46 GMT l2cap-ble 90:59:af:07:2b:34: line = data 11062c005c0010ff5d006c0020ff6d00ffff40ff
+Wed, 19 Aug 2015 01:25:46 GMT l2cap-ble 90:59:af:07:2b:34: write: 082c005c000328
+Wed, 19 Aug 2015 01:25:46 GMT l2cap-ble 90:59:af:07:2b:34: buffer = "write = success\n"
+Wed, 19 Aug 2015 01:25:46 GMT l2cap-ble 90:59:af:07:2b:34: line = write = success
+Wed, 19 Aug 2015 01:25:46 GMT l2cap-ble 90:59:af:07:2b:34: buffer = "data 09072d000a2e0011ff30000a310012ff330002340016ff\n"
+Wed, 19 Aug 2015 01:25:46 GMT l2cap-ble 90:59:af:07:2b:34: line = data 09072d000a2e0011ff30000a310012ff330002340016ff
+Wed, 19 Aug 2015 01:25:46 GMT l2cap-ble 90:59:af:07:2b:34: write: 0835005c000328
+Wed, 19 Aug 2015 01:25:46 GMT l2cap-ble 90:59:af:07:2b:34: buffer = "write = success\n"
+Wed, 19 Aug 2015 01:25:46 GMT l2cap-ble 90:59:af:07:2b:34: line = write = success
+Wed, 19 Aug 2015 01:25:46 GMT l2cap-ble 90:59:af:07:2b:34: buffer = "data 090736000a370017ff39000a3a0018ff3c000a3d0019ff\n"
+Wed, 19 Aug 2015 01:25:46 GMT l2cap-ble 90:59:af:07:2b:34: line = data 090736000a370017ff39000a3a0018ff3c000a3d0019ff
+Wed, 19 Aug 2015 01:25:46 GMT l2cap-ble 90:59:af:07:2b:34: write: 083e005c000328
+Wed, 19 Aug 2015 01:25:46 GMT l2cap-ble 90:59:af:07:2b:34: buffer = "write = success\n"
+Wed, 19 Aug 2015 01:25:46 GMT l2cap-ble 90:59:af:07:2b:34: line = write = success
+Wed, 19 Aug 2015 01:25:47 GMT l2cap-ble 90:59:af:07:2b:34: buffer = "data 09073f000a40001bff42000a43001dff45001a46001cff\n"
+Wed, 19 Aug 2015 01:25:47 GMT l2cap-ble 90:59:af:07:2b:34: line = data 09073f000a40001bff42000a43001dff45001a46001cff
+Wed, 19 Aug 2015 01:25:47 GMT l2cap-ble 90:59:af:07:2b:34: write: 0847005c000328
+Wed, 19 Aug 2015 01:25:47 GMT l2cap-ble 90:59:af:07:2b:34: buffer = "write = success\n"
+Wed, 19 Aug 2015 01:25:47 GMT l2cap-ble 90:59:af:07:2b:34: line = write = success
+Wed, 19 Aug 2015 01:25:47 GMT l2cap-ble 90:59:af:07:2b:34: buffer = "data 090748000849001aff4b000a4c0021ff4e000a4f0026ff\n"
+Wed, 19 Aug 2015 01:25:47 GMT l2cap-ble 90:59:af:07:2b:34: line = data 090748000849001aff4b000a4c0021ff4e000a4f0026ff
+Wed, 19 Aug 2015 01:25:47 GMT l2cap-ble 90:59:af:07:2b:34: write: 0850005c000328
+Wed, 19 Aug 2015 01:25:47 GMT l2cap-ble 90:59:af:07:2b:34: buffer = "write = success\n"
+Wed, 19 Aug 2015 01:25:47 GMT l2cap-ble 90:59:af:07:2b:34: line = write = success
+Wed, 19 Aug 2015 01:25:47 GMT l2cap-ble 90:59:af:07:2b:34: buffer = "data 090751000a520027ff54000a550028ff57000a580022ff\n"
+Wed, 19 Aug 2015 01:25:47 GMT l2cap-ble 90:59:af:07:2b:34: line = data 090751000a520027ff54000a550028ff57000a580022ff
+Wed, 19 Aug 2015 01:25:47 GMT l2cap-ble 90:59:af:07:2b:34: write: 0859005c000328
+Wed, 19 Aug 2015 01:25:47 GMT l2cap-ble 90:59:af:07:2b:34: buffer = "write = success\n"
+Wed, 19 Aug 2015 01:25:47 GMT l2cap-ble 90:59:af:07:2b:34: line = write = success
+Wed, 19 Aug 2015 01:25:47 GMT l2cap-ble 90:59:af:07:2b:34: buffer = "data 09075a000a5b002aff\n"
+Wed, 19 Aug 2015 01:25:47 GMT l2cap-ble 90:59:af:07:2b:34: line = data 09075a000a5b002aff
+Wed, 19 Aug 2015 01:25:47 GMT l2cap-ble 90:59:af:07:2b:34: write: 085c005c000328
+Wed, 19 Aug 2015 01:25:47 GMT l2cap-ble 90:59:af:07:2b:34: buffer = "write = success\n"
+Wed, 19 Aug 2015 01:25:47 GMT l2cap-ble 90:59:af:07:2b:34: line = write = success
+Wed, 19 Aug 2015 01:25:47 GMT l2cap-ble 90:59:af:07:2b:34: buffer = "data 01085c000a\n"
+Wed, 19 Aug 2015 01:25:47 GMT l2cap-ble 90:59:af:07:2b:34: line = data 01085c000a
+Wed, 19 Aug 2015 01:25:47 GMT l2cap-ble 90:59:af:07:2b:34: write: 0a3700
+Wed, 19 Aug 2015 01:25:47 GMT l2cap-ble 90:59:af:07:2b:34: buffer = "write = success\n"
+Wed, 19 Aug 2015 01:25:47 GMT l2cap-ble 90:59:af:07:2b:34: line = write = success
+Wed, 19 Aug 2015 01:25:48 GMT l2cap-ble 90:59:af:07:2b:34: buffer = "data 0b4c523200000000000000000000000000\n"
+Wed, 19 Aug 2015 01:25:48 GMT l2cap-ble 90:59:af:07:2b:34: line = data 0b4c523200000000000000000000000000
+Wed, 19 Aug 2015 01:25:48 GMT l2cap-ble 90:59:af:07:2b:34: write: 0a3700
+Wed, 19 Aug 2015 01:25:48 GMT l2cap-ble 90:59:af:07:2b:34: buffer = "write = success\n"
+Wed, 19 Aug 2015 01:25:48 GMT l2cap-ble 90:59:af:07:2b:34: line = write = success
+Wed, 19 Aug 2015 01:25:48 GMT l2cap-ble 90:59:af:07:2b:34: buffer = "data 0b4c523200000000000000000000000000\n"
+Wed, 19 Aug 2015 01:25:48 GMT l2cap-ble 90:59:af:07:2b:34: line = data 0b4c523200000000000000000000000000
+Wed, 19 Aug 2015 01:25:50 GMT l2cap-ble 90:59:af:07:2d:24: l2capBle = /root/lights/node_modules/noble/lib/linux/../../build/Release/l2cap-ble
+Wed, 19 Aug 2015 01:25:50 GMT l2cap-ble 90:59:af:07:2d:24: buffer = "info using 00:02:72:CC:8B:54@hci0\n"
+Wed, 19 Aug 2015 01:25:50 GMT l2cap-ble 90:59:af:07:2d:24: line = info using 00:02:72:CC:8B:54@hci0
+Wed, 19 Aug 2015 01:25:50 GMT l2cap-ble 90:59:af:07:2d:24: buffer = "connect success"
+Wed, 19 Aug 2015 01:25:50 GMT l2cap-ble 90:59:af:07:2d:24: buffer = "connect success\n"
+Wed, 19 Aug 2015 01:25:50 GMT l2cap-ble 90:59:af:07:2d:24: line = connect success
+Wed, 19 Aug 2015 01:25:50 GMT l2cap-ble 90:59:af:07:2d:24: write: 020001
+Wed, 19 Aug 2015 01:25:50 GMT l2cap-ble 90:59:af:07:2d:24: buffer = "write = success\n"
+Wed, 19 Aug 2015 01:25:50 GMT l2cap-ble 90:59:af:07:2d:24: line = write = success
+Wed, 19 Aug 2015 01:25:50 GMT l2cap-ble 90:59:af:07:2d:24: buffer = "data 031700\n"
+Wed, 19 Aug 2015 01:25:50 GMT l2cap-ble 90:59:af:07:2d:24: line = data 031700
+Wed, 19 Aug 2015 01:25:50 GMT l2cap-ble 90:59:af:07:2d:24: new MTU is 23
+Wed, 19 Aug 2015 01:25:50 GMT l2cap-ble 90:59:af:07:2d:24: write: 100100ffff0028
+Wed, 19 Aug 2015 01:25:50 GMT l2cap-ble 90:59:af:07:2d:24: buffer = "write = success\n"
+Wed, 19 Aug 2015 01:25:50 GMT l2cap-ble 90:59:af:07:2d:24: line = write = success
+Wed, 19 Aug 2015 01:25:51 GMT l2cap-ble 90:59:af:07:2d:24: buffer = "data 110601000b0000180c000f000118100022000a18\n"
+Wed, 19 Aug 2015 01:25:51 GMT l2cap-ble 90:59:af:07:2d:24: line = data 110601000b0000180c000f000118100022000a18
+Wed, 19 Aug 2015 01:25:51 GMT l2cap-ble 90:59:af:07:2d:24: write: 102300ffff0028
+Wed, 19 Aug 2015 01:25:51 GMT l2cap-ble 90:59:af:07:2d:24: buffer = "write = success\n"
+Wed, 19 Aug 2015 01:25:51 GMT l2cap-ble 90:59:af:07:2d:24: line = write = success
+Wed, 19 Aug 2015 01:25:51 GMT l2cap-ble 90:59:af:07:2d:24: buffer = "data 111423002b0000000000000000b000405104c0ff00f0\n"
+Wed, 19 Aug 2015 01:25:51 GMT l2cap-ble 90:59:af:07:2d:24: line = data 111423002b0000000000000000b000405104c0ff00f0
+Wed, 19 Aug 2015 01:25:51 GMT l2cap-ble 90:59:af:07:2d:24: write: 102c00ffff0028
+Wed, 19 Aug 2015 01:25:51 GMT l2cap-ble 90:59:af:07:2d:24: buffer = "write = success\n"
+Wed, 19 Aug 2015 01:25:51 GMT l2cap-ble 90:59:af:07:2d:24: line = write = success
+Wed, 19 Aug 2015 01:25:51 GMT l2cap-ble 90:59:af:07:2d:24: buffer = "data 11062c005c0010ff5d006c0020ff6d00ffff40ff\n"
+Wed, 19 Aug 2015 01:25:51 GMT l2cap-ble 90:59:af:07:2d:24: line = data 11062c005c0010ff5d006c0020ff6d00ffff40ff
+Wed, 19 Aug 2015 01:25:51 GMT l2cap-ble 90:59:af:07:2d:24: write: 082c005c000328
+Wed, 19 Aug 2015 01:25:51 GMT l2cap-ble 90:59:af:07:2d:24: buffer = "write = success\n"
+Wed, 19 Aug 2015 01:25:51 GMT l2cap-ble 90:59:af:07:2d:24: line = write = success
+Wed, 19 Aug 2015 01:25:51 GMT l2cap-ble 90:59:af:07:2d:24: buffer = "data 09072d000a2e0011ff30000a310012ff330002340016ff\n"
+Wed, 19 Aug 2015 01:25:51 GMT l2cap-ble 90:59:af:07:2d:24: line = data 09072d000a2e0011ff30000a310012ff330002340016ff
+Wed, 19 Aug 2015 01:25:51 GMT l2cap-ble 90:59:af:07:2d:24: write: 0835005c000328
+Wed, 19 Aug 2015 01:25:51 GMT l2cap-ble 90:59:af:07:2d:24: buffer = "write = success\n"
+Wed, 19 Aug 2015 01:25:51 GMT l2cap-ble 90:59:af:07:2d:24: line = write = success
+Wed, 19 Aug 2015 01:25:51 GMT l2cap-ble 90:59:af:07:2d:24: buffer = "data 090736000a370017ff39000a3a0018ff3c000a3d0019ff\n"
+Wed, 19 Aug 2015 01:25:51 GMT l2cap-ble 90:59:af:07:2d:24: line = data 090736000a370017ff39000a3a0018ff3c000a3d0019ff
+Wed, 19 Aug 2015 01:25:51 GMT l2cap-ble 90:59:af:07:2d:24: write: 083e005c000328
+Wed, 19 Aug 2015 01:25:51 GMT l2cap-ble 90:59:af:07:2d:24: buffer = "write = success\n"
+Wed, 19 Aug 2015 01:25:51 GMT l2cap-ble 90:59:af:07:2d:24: line = write = success
+Wed, 19 Aug 2015 01:25:51 GMT l2cap-ble 90:59:af:07:2d:24: buffer = "data 09073f000a40001bff42000a43001dff45001a46001cff\n"
+Wed, 19 Aug 2015 01:25:51 GMT l2cap-ble 90:59:af:07:2d:24: line = data 09073f000a40001bff42000a43001dff45001a46001cff
+Wed, 19 Aug 2015 01:25:51 GMT l2cap-ble 90:59:af:07:2d:24: write: 0847005c000328
+Wed, 19 Aug 2015 01:25:51 GMT l2cap-ble 90:59:af:07:2d:24: buffer = "write = success\n"
+Wed, 19 Aug 2015 01:25:51 GMT l2cap-ble 90:59:af:07:2d:24: line = write = success
+Wed, 19 Aug 2015 01:25:52 GMT l2cap-ble 90:59:af:07:2d:24: buffer = "data 090748000849001aff4b000a4c0021ff4e000a4f0026ff\n"
+Wed, 19 Aug 2015 01:25:52 GMT l2cap-ble 90:59:af:07:2d:24: line = data 090748000849001aff4b000a4c0021ff4e000a4f0026ff
+Wed, 19 Aug 2015 01:25:52 GMT l2cap-ble 90:59:af:07:2d:24: write: 0850005c000328
+Wed, 19 Aug 2015 01:25:52 GMT l2cap-ble 90:59:af:07:2d:24: buffer = "write = success\n"
+Wed, 19 Aug 2015 01:25:52 GMT l2cap-ble 90:59:af:07:2d:24: line = write = success
+Wed, 19 Aug 2015 01:25:52 GMT l2cap-ble 90:59:af:07:2d:24: buffer = "data 090751000a520027ff54000a550028ff57000a580022ff\n"
+Wed, 19 Aug 2015 01:25:52 GMT l2cap-ble 90:59:af:07:2d:24: line = data 090751000a520027ff54000a550028ff57000a580022ff
+Wed, 19 Aug 2015 01:25:52 GMT l2cap-ble 90:59:af:07:2d:24: write: 0859005c000328
+Wed, 19 Aug 2015 01:25:52 GMT l2cap-ble 90:59:af:07:2d:24: buffer = "write = success\n"
+Wed, 19 Aug 2015 01:25:52 GMT l2cap-ble 90:59:af:07:2d:24: line = write = success
+Wed, 19 Aug 2015 01:25:52 GMT l2cap-ble 90:59:af:07:2d:24: buffer = "data 09075a000a5b002aff\n"
+Wed, 19 Aug 2015 01:25:52 GMT l2cap-ble 90:59:af:07:2d:24: line = data 09075a000a5b002aff
+Wed, 19 Aug 2015 01:25:52 GMT l2cap-ble 90:59:af:07:2d:24: write: 085c005c000328
+Wed, 19 Aug 2015 01:25:52 GMT l2cap-ble 90:59:af:07:2d:24: buffer = "write = success\n"
+Wed, 19 Aug 2015 01:25:52 GMT l2cap-ble 90:59:af:07:2d:24: line = write = success
+Wed, 19 Aug 2015 01:25:52 GMT l2cap-ble 90:59:af:07:2d:24: buffer = "data 01085c000a\n"
+Wed, 19 Aug 2015 01:25:52 GMT l2cap-ble 90:59:af:07:2d:24: line = data 01085c000a
+Wed, 19 Aug 2015 01:25:52 GMT l2cap-ble 90:59:af:07:2d:24: write: 0a3700
+Wed, 19 Aug 2015 01:25:52 GMT l2cap-ble 90:59:af:07:2d:24: buffer = "write = success\n"
+Wed, 19 Aug 2015 01:25:52 GMT l2cap-ble 90:59:af:07:2d:24: line = write = success
+Wed, 19 Aug 2015 01:25:52 GMT l2cap-ble 90:59:af:07:2d:24: buffer = "data 0b4c523300000000000000000000000000\n"
+Wed, 19 Aug 2015 01:25:52 GMT l2cap-ble 90:59:af:07:2d:24: line = data 0b4c523300000000000000000000000000
+Wed, 19 Aug 2015 01:25:52 GMT l2cap-ble 90:59:af:07:2b:34: write: 0a3700
+Wed, 19 Aug 2015 01:25:52 GMT l2cap-ble 90:59:af:07:2b:34: buffer = "write = success\n"
+Wed, 19 Aug 2015 01:25:52 GMT l2cap-ble 90:59:af:07:2b:34: line = write = success
+Wed, 19 Aug 2015 01:25:52 GMT l2cap-ble 90:59:af:07:2d:24: buffer = "data 0b4c523200000000000000000000000000\n"
+Wed, 19 Aug 2015 01:25:52 GMT l2cap-ble 90:59:af:07:2d:24: line = data 0b4c523200000000000000000000000000
+Wed, 19 Aug 2015 01:25:52 GMT l2cap-ble 90:59:af:07:2d:24: uh oh, no current command

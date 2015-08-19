@@ -7,6 +7,21 @@ function print(item,callback) {
   if (callback) {callback();}
 }
 
+/*
+function patchCharacteristic() {
+  var char = require('noble/lib/characteristic');
+  var cread = char.prototype.read;
+  char.prototype.read = function(callback) {
+    console.log('read called: '+this.toString());
+    cread.bind(this)(function(err){
+      console.log('read finished');
+      callback(err);});
+  };
+};
+patchCharacteristic();
+*/
+
+
 RoboSmart.discoverAll(function(devices) {
   var l1 = devices[0];
   var l2 = devices[1];
@@ -14,6 +29,10 @@ RoboSmart.discoverAll(function(devices) {
     print.bind(undefined,'Connecting to first light'),
     l1.connect.bind(l1),
     l1.discoverServicesAndCharacteristics.bind(l1),
+    function(callback) {
+      print('Getting first light name');
+      l1.getLightName(function(item){print(item,callback)});
+    },
     function(callback) {
       print('Getting first light name');
       l1.getLightName(function(item){print(item,callback)});
@@ -35,3 +54,4 @@ RoboSmart.discoverAll(function(devices) {
     print.bind(undefined,'Returned from last call')
   ]);
 }, 2000);
+
